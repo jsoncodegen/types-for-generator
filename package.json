@@ -1,0 +1,9 @@
+{
+	"name": "jsoncodegen-types-for-generator",
+	"version": "1.0.0",
+	"description": "TypeScript types for jsoncodegen generators.",
+	"main": "index.js",
+	"types": "index.d.ts",
+	"author": "András Parditka",
+	"license": "MIT"
+}
